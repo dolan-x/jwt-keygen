@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@so1ve/eslint-config": "^0.26.0",
+    "eslint": "^8.19.0"
+  }
+}
